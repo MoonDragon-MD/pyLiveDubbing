@@ -45,4 +45,4 @@ You can change the parameters, but I cannot guarantee optimal performance.
 
 I would also like to point out a flaw in Vosk: if you use the minimal model, it may invent sentences when there is no audio. This may also happen with the medium model, but very rarely.
 
-Currently, it is designed to have dubbing from Italian to English. If you use other languages, remember to check the inside of the script.
+At the moment, it is designed to have dubbing from English to Italian. If you use other languages, remember to check the inside of the script.
